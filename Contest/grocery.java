@@ -1,9 +1,8 @@
-// Name: Emad Uddin Adil
+package Contest;
 
 import java.util.Scanner;
 
-public class adil {
-
+public class grocery {
     public static void main(String[] args) { 
         Scanner scan= new Scanner(System.in);
         int item = scan.nextInt();
@@ -24,5 +23,4 @@ scan.close();
         
     
     }
-
 }
